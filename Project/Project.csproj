@@ -1,0 +1,254 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{14A953DD-63B7-4EAC-B616-811B0C7F89F1}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Project</RootNamespace>
+    <AssemblyName>Project</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Add Work.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Add Work.Designer.cs">
+      <DependentUpon>Add Work.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Contract Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Contract Form.Designer.cs">
+      <DependentUpon>Contract Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Delete Data.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Delete Data.Designer.cs">
+      <DependentUpon>Delete Data.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login Form.Designer.cs">
+      <DependentUpon>Login Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Menu Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menu Form.Designer.cs">
+      <DependentUpon>Menu Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Show Data Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Show Data Form.Designer.cs">
+      <DependentUpon>Show Data Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sign Up Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sign Up Form.Designer.cs">
+      <DependentUpon>Sign Up Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Splash screen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Splash screen.Designer.cs">
+      <DependentUpon>Splash screen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Update Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Update Form.Designer.cs">
+      <DependentUpon>Update Form.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Add Work.resx">
+      <DependentUpon>Add Work.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Contract Form.resx">
+      <DependentUpon>Contract Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Delete Data.resx">
+      <DependentUpon>Delete Data.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login Form.resx">
+      <DependentUpon>Login Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu Form.resx">
+      <DependentUpon>Menu Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Show Data Form.resx">
+      <DependentUpon>Show Data Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sign Up Form.resx">
+      <DependentUpon>Sign Up Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Splash screen.resx">
+      <DependentUpon>Splash screen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Update Form.resx">
+      <DependentUpon>Update Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\31939145c822e707b6a4b5d5ec26086e.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\istockphoto-1297780288-170667a.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\21.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\passeord icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\login-logo-png-6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sign up background.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sign up logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\stuffcontentmgrfiles20a2889156e4cbcb9bda9eed3192dadfcmiscshow_me_the_data.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download.jfif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\211.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Contract-Management-Software-The-Best-10-Free-and-Open-Source-Contract-Management-Software.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Contract-Management-Software-The-Best-10-Free-and-Open-Source-Contract-Management-Software1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\35716009.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Permanently-Delete-Confidential-Data.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Delete-Button-PNG-File.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Back-PNG-Free-Download.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Update-Button-PNG-Free-Image.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Back-PNG-Free-Download1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Save-Button-PNG-Clipart.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Back-PNG-Free-Download2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\show-button-png-hi.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Back-PNG-Free-Download3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\createaccount-button-png-hi.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Back-PNG-Free-Download4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\photo-1544006659-f0b21884ce1d.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add-button-png-hi.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Back-PNG-Free-Download5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\show-button-png-hi1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Update-Button-PNG-Free-Image1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Delete-Button-PNG-File1.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

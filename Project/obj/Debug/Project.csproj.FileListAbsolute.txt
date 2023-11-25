@@ -1,0 +1,52 @@
+c:\users\junaid ali\documents\visual studio 2013\Projects\Project\Project\bin\Debug\Project.exe.config
+c:\users\junaid ali\documents\visual studio 2013\Projects\Project\Project\bin\Debug\Project.exe
+c:\users\junaid ali\documents\visual studio 2013\Projects\Project\Project\bin\Debug\Project.pdb
+c:\users\junaid ali\documents\visual studio 2013\Projects\Project\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+c:\users\junaid ali\documents\visual studio 2013\Projects\Project\Project\obj\Debug\Project.Properties.Resources.resources
+c:\users\junaid ali\documents\visual studio 2013\Projects\Project\Project\obj\Debug\Project.csproj.GenerateResource.Cache
+c:\users\junaid ali\documents\visual studio 2013\Projects\Project\Project\obj\Debug\Project.exe
+c:\users\junaid ali\documents\visual studio 2013\Projects\Project\Project\obj\Debug\Project.pdb
+c:\users\junaid ali\documents\visual studio 2013\Projects\Project\Project\obj\Debug\Project.Login_Page.resources
+c:\users\junaid ali\documents\visual studio 2013\Projects\Project\Project\obj\Debug\Project.Menu.resources
+c:\users\junaid ali\documents\visual studio 2013\Projects\Project\Project\obj\Debug\Project.Contract_Details.resources
+c:\users\junaid ali\documents\visual studio 2013\Projects\Project\Project\obj\Debug\Project.Show_Data.resources
+c:\users\junaid ali\documents\visual studio 2013\Projects\Project\Project\obj\Debug\Project.Sign_Up.resources
+c:\users\junaid ali\documents\visual studio 2013\Projects\Project\Project\obj\Debug\Project.Splash_screen.resources
+C:\Users\Junaid Ali\Documents\Visual Studio 2013\Projects\Project\Project\obj\Debug\Project.Update_Form.resources
+C:\Users\Junaid Ali\Documents\Visual Studio 2013\Projects\Project\Project\obj\Debug\Project.Delete_Data.resources
+C:\Users\Junaid Ali\Documents\Visual Studio 2013\Projects\Project\Project\obj\Debug\Project.Add_Work_Form.resources
+C:\Users\Junaid Ali\OneDrive\Documents\Visual Studio 2013\Projects\Project\Project\bin\Debug\Project.exe.config
+C:\Users\Junaid Ali\OneDrive\Documents\Visual Studio 2013\Projects\Project\Project\obj\Debug\Project.exe
+C:\Users\Junaid Ali\OneDrive\Documents\Visual Studio 2013\Projects\Project\Project\obj\Debug\Project.pdb
+C:\Users\Junaid Ali\OneDrive\Documents\Visual Studio 2013\Projects\Project\Project\bin\Debug\Project.exe
+C:\Users\Junaid Ali\OneDrive\Documents\Visual Studio 2013\Projects\Project\Project\bin\Debug\Project.pdb
+C:\Users\Junaid Ali\OneDrive\Documents\Visual Studio 2013\Projects\Project\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+C:\Users\Junaid Ali\OneDrive\Documents\Visual Studio 2013\Projects\Project\Project\obj\Debug\Project.Add_Work_Form.resources
+C:\Users\Junaid Ali\OneDrive\Documents\Visual Studio 2013\Projects\Project\Project\obj\Debug\Project.Contract_Details.resources
+C:\Users\Junaid Ali\OneDrive\Documents\Visual Studio 2013\Projects\Project\Project\obj\Debug\Project.Delete_Data.resources
+C:\Users\Junaid Ali\OneDrive\Documents\Visual Studio 2013\Projects\Project\Project\obj\Debug\Project.Login_Page.resources
+C:\Users\Junaid Ali\OneDrive\Documents\Visual Studio 2013\Projects\Project\Project\obj\Debug\Project.Menu.resources
+C:\Users\Junaid Ali\OneDrive\Documents\Visual Studio 2013\Projects\Project\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\Junaid Ali\OneDrive\Documents\Visual Studio 2013\Projects\Project\Project\obj\Debug\Project.Show_Data.resources
+C:\Users\Junaid Ali\OneDrive\Documents\Visual Studio 2013\Projects\Project\Project\obj\Debug\Project.Sign_Up.resources
+C:\Users\Junaid Ali\OneDrive\Documents\Visual Studio 2013\Projects\Project\Project\obj\Debug\Project.Splash_screen.resources
+C:\Users\Junaid Ali\OneDrive\Documents\Visual Studio 2013\Projects\Project\Project\obj\Debug\Project.Update_Form.resources
+C:\Users\Junaid Ali\OneDrive\Documents\Visual Studio 2013\Projects\Project\Project\obj\Debug\Project.csproj.GenerateResource.Cache
+D:\Project\Project\bin\Debug\Project.exe.config
+D:\Project\Project\bin\Debug\Project.exe
+D:\Project\Project\bin\Debug\Project.pdb
+D:\Project\Project\obj\Debug\Project.csproj.AssemblyReference.cache
+D:\Project\Project\obj\Debug\Project.Add_Work_Form.resources
+D:\Project\Project\obj\Debug\Project.Contract_Details.resources
+D:\Project\Project\obj\Debug\Project.Delete_Data.resources
+D:\Project\Project\obj\Debug\Project.Login_Page.resources
+D:\Project\Project\obj\Debug\Project.Menu.resources
+D:\Project\Project\obj\Debug\Project.Properties.Resources.resources
+D:\Project\Project\obj\Debug\Project.Show_Data.resources
+D:\Project\Project\obj\Debug\Project.Sign_Up.resources
+D:\Project\Project\obj\Debug\Project.Splash_screen.resources
+D:\Project\Project\obj\Debug\Project.Update_Form.resources
+D:\Project\Project\obj\Debug\Project.csproj.GenerateResource.cache
+D:\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+D:\Project\Project\obj\Debug\Project.exe
+D:\Project\Project\obj\Debug\Project.pdb
